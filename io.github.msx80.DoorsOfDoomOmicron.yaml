@@ -49,7 +49,7 @@ modules:
     sha256: 72316b49cf4e15b8420c526caea5b7ed2db828269211bb7cbc068475736710b6
   - type: git
     url: https://github.com/msx80/DoorsOfDoomOmicron.git
-    commit: d5aa70faa3ad99b85d00e0cb1ecae1e3285d8ccd
+    commit: a7664fed4e75d59157968787eb8c47df02c61ffd
     disable-submodules: true
 
 
